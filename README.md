@@ -1,6 +1,9 @@
 # Description
 
 This README file provides instructions to setup and run the API service
+### For better visibility of README file refer to the link below -
+
+[README](https://github.com/Tanaya06/mishipay_readme/blob/main/README.md)
 
 ## Technology
 
