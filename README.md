@@ -12,6 +12,7 @@ This README file provides instructions to setup and run the API service
 ## Basic Setup
 
 Unzip the **mishipay_solution_tanaya.zip** folder into a directory
+
 Navigate to that directory and perform following steps given below
 
 ## Installation
@@ -19,6 +20,7 @@ Navigate to that directory and perform following steps given below
 ### Install Python
 
 If python is not install on your system, refer [this link](https://www.python.org/downloads/) to install python and how to set up your system
+
 
 Check if python is installed or not by typing following command in command prompt
 
@@ -29,6 +31,7 @@ py -V
 ### Install Django and django frameworks
 
 Navigate to the directory where **mishipay_solution_tanaya** is located
+
 Type the following commands in cmd to install django and its frameworks
 
 ```bash
